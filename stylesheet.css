@@ -1,0 +1,33 @@
+body {
+	background-image: url('http://wallup.net/wp-content/uploads/2016/01/316845-black-trees-nature-landscape-white.jpg')
+	background-size: cover;
+
+
+
+}
+
+.header {
+	font-weight: 300;
+	color: #990000;
+	font-size: 60px;
+	text-align: center;
+}
+
+.header2 {
+	color: #4d0000;
+	text-align: center;
+
+}
+
+
+.RachaelPic {
+	image-align: center;
+	width: 300px;
+	height: 300px;
+}
+
+.Projects {
+	text-align: center;
+	font-size: 35px; 
+	color: #4d004d;
+}
